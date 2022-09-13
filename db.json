@@ -17,12 +17,6 @@
       "text": "Food Shopping",
       "day": "March 1st at 11:00am",
       "reminder": false
-    },
-    {
-      "id": 77064,
-      "text": "Go out",
-      "day": "September 2nd at 10pm",
-      "reminder": false
     }
   ]
 }
